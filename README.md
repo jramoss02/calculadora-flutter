@@ -1,16 +1,35 @@
-# calculadora_app
+# Calculadora FLUTTER
 
-A new Flutter project.
+![ezgif com-video-to-gif](https://github.com/jramoss02/calculadora-flutter/assets/77749469/12ea39bd-3dcf-412e-85f1-979171c2e4ea)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+> Demonstração do projeto.
+## 💻 Pré-requisitos
 
-A few resources to get you started if this is your first Flutter project:
+Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* Versão mais recente instalada das linguagens e ferramentas: `<Flutter, Dart>`
+* Você tem uma máquina `<Windows / Linux / Mac>`
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Construído com
+
+
+* [Android Studio](https://developer.android.com/studio?gclid=Cj0KCQjw9rSoBhCiARIsAFOiplmliOPqhK6PDd83lbYJUxBJqkfEjllv3qB_6MZ6U3aCz7KjSwdFGtEaAktZEALw_wcB&gclsrc=aw.ds) - IDE utilizada.
+* [Flutter / Dart](https://flutter.dev/?gclid=Cj0KCQjw9rSoBhCiARIsAFOiplmo7RMAWtXvJ_EO81T5JjG-gKs02AmLuP3Q849bcC3Vcn3DQAbidqsaAouKEALw_wcB&gclsrc=aw.ds) - Linguagem de programação utilizada.
+
+## 🤝 Colaboradores
+
+Pessoas que contribuíram para este projeto:
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/77749469?v=4" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
+        <sub>
+          <b>José Ramos</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
