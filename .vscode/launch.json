@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "name": "Flutter (lib\\calculator_screen.dart)",
+            "type": "dart",
+            "request": "launch",
+            "program": "lib\\calculator_screen.dart"
+        }
+    ]
+}
